@@ -21,10 +21,10 @@ Doing this programme confirmed that I really enjoy working with data to provide 
 
 ## Major Skills
 
-WEB SCRAPING (Beautiful Soup)
-DATA MANIPULATION (Pandas, Numpy)
-DATA SCIENCE (Python)
-DATA VISUALISATION (MatPlotLib, Seaborn)
-MACHINE LEARNING (Sci Kit Learn)
-POWERPOINT (for Presentation)
-PYTHON 
+- WEB SCRAPING (Beautiful Soup)
+- DATA MANIPULATION (Pandas, Numpy)
+- DATA SCIENCE (Python)
+- DATA VISUALISATION (MatPlotLib, Seaborn)
+- MACHINE LEARNING (Sci Kit Learn)
+- POWERPOINT (for Presentation)
+- PYTHON 
