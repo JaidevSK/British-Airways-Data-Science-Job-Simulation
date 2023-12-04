@@ -2,6 +2,8 @@
 
 Dataset Credits: British Airways
 
+Link to [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_htpTccgaZ36qARqqh_1701676535709_completion_certificate.pdf)
+
 ## What I Did?
 Completed a simulation focussing on how data science is a critical component of British Airways success
 Scraped and analysed customer review data to uncover findings
