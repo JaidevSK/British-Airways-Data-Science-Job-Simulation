@@ -10,6 +10,7 @@ Built a predictive model to understand factors that influence buying behaviour
 ## Link to the Presentations:
 
 [Web Scraping to get Customer Review data and Data Analysis](https://github.com/JaidevSK/British-Airways-Data-Science-Job-Simulation/blob/main/Web%20scraping%20to%20gain%20company%20insights.pptx)
+
 [Prediction of the Probability that a customer will buy the ticket given the input parameters](https://github.com/JaidevSK/British-Airways-Data-Science-Job-Simulation/blob/main/Predicting%20Customer%20Buying%20Behaviour.pptx)
 
 ## What I Learned?
